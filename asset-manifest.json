@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anime-quote-generator/static/css/main.03761ca9.chunk.css",
+    "main.js": "/anime-quote-generator/static/js/main.f559e2ea.chunk.js",
+    "main.js.map": "/anime-quote-generator/static/js/main.f559e2ea.chunk.js.map",
+    "runtime-main.js": "/anime-quote-generator/static/js/runtime-main.97ccf04e.js",
+    "runtime-main.js.map": "/anime-quote-generator/static/js/runtime-main.97ccf04e.js.map",
+    "static/js/2.83fc1502.chunk.js": "/anime-quote-generator/static/js/2.83fc1502.chunk.js",
+    "static/js/2.83fc1502.chunk.js.map": "/anime-quote-generator/static/js/2.83fc1502.chunk.js.map",
+    "index.html": "/anime-quote-generator/index.html",
+    "static/css/main.03761ca9.chunk.css.map": "/anime-quote-generator/static/css/main.03761ca9.chunk.css.map",
+    "static/js/2.83fc1502.chunk.js.LICENSE.txt": "/anime-quote-generator/static/js/2.83fc1502.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ccf04e.js",
+    "static/js/2.83fc1502.chunk.js",
+    "static/css/main.03761ca9.chunk.css",
+    "static/js/main.f559e2ea.chunk.js"
+  ]
+}
