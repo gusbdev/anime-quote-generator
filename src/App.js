@@ -1,6 +1,6 @@
 
 import { useCallback, useEffect } from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import { useSetRecoilState } from "recoil";
 import axios from "axios";
 import { animeTitles } from "./store";
@@ -27,12 +27,12 @@ const App = () => {
 	}, [fetchAnimes]);
 
 	return (
-		<BrowserRouter>
+		<HashRouter>
 			<Switch>
 				<Route exact path="/" component={Homepage} />
 				<Route exact path="/anime/:name" component={Animepage} />
 			</Switch>
-		</BrowserRouter>
+		</HashRouter>
 	);
 };
 
