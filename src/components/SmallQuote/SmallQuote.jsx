@@ -5,7 +5,7 @@ const SmallQuote = ({quote, character, anime}) => {
         <StyledSmallQuote>
             <p>"{quote}"</p>
             <h4>
-                <span className="character">{character}</span><em>in</em>
+                <span className="character">{character}</span> <em>in</em>
                 <span className="anime">{anime}</span>
             </h4>
         </StyledSmallQuote>
