@@ -90,3 +90,5 @@ const StyledHomePage = styled.div`
     }
   }
 `;
+
+export default Homepage;
